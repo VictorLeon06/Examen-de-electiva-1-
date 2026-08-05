@@ -1,7 +1,0 @@
-Deben subir el proyecto a github Pages y enviarme la url de la página funcionando para 
-corregirla.
-
-Por favor no  me vayan a enviar captures ni nada que no sea lo que pedí.
-
-No es solo subirlo al repositorio sino que se visualice la página en github Pages (Ya ustedes saben
-cómo hacerlo porque de eso  se trató el primer trabajo)
