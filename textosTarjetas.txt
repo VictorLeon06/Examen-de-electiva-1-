@@ -1,0 +1,38 @@
+Párrafos para los items de las tarjetas
+
+
+Lenguajes:
+
+C Sharp: Potente lenguaje orientado a objetos desarrollado por Microsoft.
+
+Java: Robusto, seguro y multiplataforma.
+
+JavaScript: El lenguaje fundamental de la web.
+
+PHP: El veterano que impulsa gran parte de la web dinámicas.
+
+Python: Lenguaje multipropósito reconocido por su sintaxis limpia y legible.
+
+Frameworks:
+
+Angular: Robusto framework de Google basado en TypeScript.
+
+Django: Framework web de alto nivel basado en Python.
+
+Laravel: El framework web preferido para PHP.
+
+Svelty: Compilador innovador que transforma el código en JavaScript ejecutable en tiempo de construcción.
+
+Vue.js: Framework progresivo de JavaScript muy flexible y fácil de integrar.
+
+Sistemas Operativos:
+
+Android: El sistema operativo móvil de código abierto liderado por Google.
+
+iOS: Sistema operativo móvil exclusivo del iPhone.
+
+Linux: Sistema operativo de código abierto, altamente personalizable y seguro.
+
+macOS: Sistema exclusivo de los equipos Mac de Apple.
+
+Windows: El sistema operativo de escritorio más popular del mundo.
